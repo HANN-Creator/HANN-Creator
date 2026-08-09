@@ -87,7 +87,7 @@ XRPL 블록체인 해커톤에서 진행한 보이스피싱 탐지 프로젝트�
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=HANN-Creator&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=HANN-Creator&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HANN-Creator&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
